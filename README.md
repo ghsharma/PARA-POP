@@ -33,11 +33,12 @@ PARAPOP is built using the following technologies:
 
 - ReactJS
 - HTML5
+- Vite
+- Tailwind CSS
 - Redux Toolkit
 - OpenAI API
 - Rapid API
-- Tailwind CSS
-- Vite
+
 
 ## Glimpse 
 ![parapop pages dev_(Nest Hub)](https://github.com/ghsharma/PARA-POP/assets/95496933/ea180c65-f574-47cf-b562-e98365683079)
