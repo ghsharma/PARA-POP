@@ -1,6 +1,6 @@
 # PARAPOP - AI Article Summarizing Application
 
-**PARAPOP** is an AI-based article summarizing application developed using ReactJS with the integration of the advanced Redux Toolkit. It leverages the power of OpenAI APIs to provide users with concise summaries of lengthy articles. It incorporates popular web development technologies such as ReactJS, Tailwind CSS, Vite, and Redux Toolkit, along with the Rapid API for enhanced functionality.
+Incorporates popular web development technologies such as ReactJS, Tailwind CSS, Vite, and Redux Toolkit, along with the Rapid API for enhanced functionality.
 Live ON: [https://parapop.pages.dev/](https://parapop.pages.dev/)
 
 ## Key Features
